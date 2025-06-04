@@ -1,0 +1,21 @@
+.twoButtons{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* gap:1rem; */
+}
+
+.buttons{
+      font-size:20px;
+      font-weight: 600;
+      padding: 15px;
+      margin:20px 10px;
+      width: 120px;
+      background-color: #ebeef1;
+      cursor:pointer;
+      border: none;
+      border-radius:50px;
+      color:#00a037;
+      box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16);
+      text-align: center;
+}
